@@ -22,7 +22,7 @@ nav
     position: sticky;
     top: 0;
     border-bottom:1px solid #124559;
-    max-width:85%
+    max-width:100%
 }
 nav a
 {
@@ -80,6 +80,7 @@ a:focus
     outline: 3px solid #ffbf47; 
     outline-offset: 2px; 
 }
+
 
 
 
