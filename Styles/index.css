@@ -21,7 +21,7 @@ nav
     font-size: 1em;
     position: sticky;
     top: 0;
-    box-shadow: 0px, 5px, #124559;
+    box-shadow: 0, 2px, 4px, 0, #124559;
 }
 nav a
 {
