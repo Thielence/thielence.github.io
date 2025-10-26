@@ -21,6 +21,7 @@ nav
     font-size: 1em;
     position: sticky;
     top: 0;
+    border-bottom:1px solid #124559;
 }
 nav a
 {
@@ -62,5 +63,10 @@ footer
     text-align: center;
     font-size: 1.15em;
 
+}
+a:focus
+{ 
+    outline: 3px solid #ffbf47; 
+    outline-offset: 2px; 
 }
 
