@@ -54,7 +54,6 @@ h2
 }
 img
 {
-    max-width:10%
     float: right;
 }
 footer
@@ -80,6 +79,7 @@ a:focus
     outline: 3px solid #ffbf47; 
     outline-offset: 2px; 
 }
+
 
 
 
